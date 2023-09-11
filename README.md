@@ -1,16 +1,4 @@
-# applewatch_faces
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/kirankot12/applewatch-face-UI/assets/116199155/a4202a6a-c6e6-42b3-a08d-22d0a5f2b8bd
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
